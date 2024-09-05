@@ -1,6 +1,8 @@
 # Day-2-ELK-Stack-Deep-Dive
 
 The ELK Stack — comprising Elasticsearch, Logstash, and Kibana — is a powerful open-source solution for log management and data analysis. It provides a robust framework for collecting, storing, searching, and visualizing large volumes of data in real-time.
+![SOC](https://raw.githubusercontent.com/Virus192/Day-2-ELK-Stack-Deep-Dive/main/images/1_EElZCCfA9S0kgABEDi5sOw.png)
+
 
 ## Overall Working of ELK Stack
 
